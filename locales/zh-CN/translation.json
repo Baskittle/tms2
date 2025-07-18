@@ -12,6 +12,8 @@
   "search_button": "搜索",
   "loading_shipments": "正在加载货运...",
   "error_loading_shipments": "错误：加载货运失败。",
+  "consignee_col": "收货人",
+  "estimated_delivery_col": "预计送达",
   "tracking_number_col": "追踪号",
   "status_col": "状态",
   "origin_col": "起点",
@@ -94,6 +96,7 @@
   "status_delivered": "已送达",
   "status_problem": "问题",
   "status_problem_with_inquiry": "问题待质询",
+  "status_problemwithinquiry": "问题待质询",
   "status_completed": "已完成",
   "status_cancelled": "已取消",
 

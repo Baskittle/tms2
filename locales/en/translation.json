@@ -12,6 +12,8 @@
   "search_button": "Search",
   "loading_shipments": "Loading shipments...",
   "error_loading_shipments": "Error: Failed to load shipments.",
+  "consignee_col": "Consignee",
+  "estimated_delivery_col": "Estimated Delivery",
   "tracking_number_col": "Tracking #",
   "status_col": "Status",
   "origin_col": "Origin",
@@ -94,6 +96,7 @@
   "status_delivered": "Delivered",
   "status_problem": "Problem",
   "status_problem_with_inquiry": "Problem with Inquiry",
+  "status_problemwithinquiry": "Problem with Inquiry",
   "status_completed": "Completed",
   "status_cancelled": "Cancelled",
 

@@ -94,6 +94,7 @@
   "status_delivered": "Entregado",
   "status_problem": "Problema",
   "status_problem_with_inquiry": "Problema con Consulta",
+  "status_problemwithinquiry": "Problema con Consulta",
   "status_completed": "Completado",
   "status_cancelled": "Cancelado",
 

@@ -94,6 +94,7 @@
   "status_delivered": "已送達",
   "status_problem": "問題",
   "status_problem_with_inquiry": "問題待查詢",
+  "status_problemwithinquiry": "問題待查詢",
   "status_completed": "已完成",
   "status_cancelled": "已取消",
 
